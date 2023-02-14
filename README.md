@@ -17,4 +17,8 @@ Menu: The menu table maps the product_id to the actual product_name and price of
 
 Members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
+## Entity-Relationship Digram
+![ERD](https://user-images.githubusercontent.com/124743857/218807922-baf3c630-11ff-4ca4-91e6-c980464a315b.JPG)
+
+
  
